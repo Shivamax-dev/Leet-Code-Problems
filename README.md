@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shivamax-dev/Leet-Code-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Shivamax-dev/Leet-Code-Problems/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Shivamax-dev/Leet-Code-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Shivamax-dev/Leet-Code-Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Shivamax-dev/Leet-Code-Problems/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Shivamax-dev/Leet-Code-Problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
